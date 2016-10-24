@@ -5,7 +5,7 @@
 ///    [[ register ]]( "Harbor Map Fix", codam\_map_fix::main); 
 
 ///  In another mod. Add in gametype(dm,sd,...etc.) main funtion before last } 
-/// thread maps\mp\gametypes\_map_fix.gsc::main();   
+/// thread codam\_map_fix.gsc::main();   
 
  
 main()
