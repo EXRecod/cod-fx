@@ -5,6 +5,7 @@ Plugins and scripts for call of duty 1 servers glitch fix.
 ---------------------------------------------------------------
 ### _map_fix.pk3
  Original Harbor and Logging Mill maps fix For Call Of Duty 1 all patches
+ put _map_fix.pk3 in main folder
  
  FOR CODAM 
  in the codam\modlist.gsc file
