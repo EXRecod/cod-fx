@@ -11,7 +11,7 @@ Plugins and scripts for call of duty 1 servers glitch fix.
  in the codam\modlist.gsc file
  [[ register ]]( "Harbor Map Fix", codam\_map_fix::main); 
  
- In another mod. Add in gametype(dm,sd,...etc.) main funtion before last } 
+ In another mod. Add in gametype(dm,sd,...etc.) main function before last } 
   thread codam\_map_fix.gsc::main();
 ---------------------------------------------------------------------------
 
