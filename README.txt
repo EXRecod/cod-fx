@@ -17,4 +17,3 @@ Plugins and scripts for call of duty 1 servers glitch fix.
 
 Support: 
 skype -> larocca2012
-email -> la.rocca@yandex.com
